@@ -31,7 +31,7 @@
 ### 🧠 Stroke Analysis Dashboard (Power BI)
 > Multi-page dashboard analyzing stroke risk factors  
 **Tech Stack:** `Power BI`, `DAX`, `Data Modeling`  
-📂 [View Report](./Projects/Stroke-Analysis-PowerBI)
+📂 [View Report](https://github.com/neharaju27/Healthcare-Stroke-Analysis.git)
 
 ---
 
