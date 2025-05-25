@@ -21,7 +21,7 @@
 ### 🧪 Wine Quality Analysis
 > Predicting wine quality based on physicochemical tests  
 **Tech Stack:** `Python`, `Pandas`, `Seaborn`, `Jupyter`  
-📂 [View Project](./Projects/Wine-Quality-Analysis)
+📂 [View Project](https://github.com/neharaju27/Grape-Chemistry-Project.git)
 
 ### ⚡ EV Market Dashboard (Streamlit)
 > Dashboard to explore electric vehicle market trends  
