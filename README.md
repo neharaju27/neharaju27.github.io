@@ -1,92 +1,62 @@
-# 👋 Hi, I'm Neha Raju
+<h1 align="center">Hi, I'm [Your Name] 👋</h1>
+<h3 align="center">Data Analyst | BI Developer | Python Enthusiast</h3>
 
-📍 Bangalore, India | 📧 neharaju719@gmail.com  
-🔗 [LinkedIn](https://www.linkedin.com/in/neha-raju27) | 🎓 [Resume](https://github.com/neharaju27/Resume/blob/main/Neha_Raju_Resume.pdf)
-
----
-
-## 🚀 About Me
-
-I'm a data enthusiast who turns numbers into narratives. With a strong foundation in statistics and hands-on experience in Python, SQL, and Power BI, I love diving into data to uncover trends, build interactive dashboards, and craft meaningful stories.
+<p align="center">
+  <a href="https://www.linkedin.com/in/yourprofile/"><img src="https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=linkedin"/></a>
+  <a href="mailto:youremail@example.com"><img src="https://img.shields.io/badge/-Email-red?style=flat-square&logo=gmail&logoColor=white"/></a>
+  <a href="https://yourportfolio.com"><img src="https://img.shields.io/badge/-Portfolio-black?style=flat-square&logo=github"/></a>
+</p>
 
 ---
 
-## 🧠 Skills
-
-| Languages | Tools | Soft Skills |
-|----------|--------|-------------|
-| Python, SQL | Power BI, GitHub, HTML/CSS | Adaptability, Teamwork, Problem Solving |
-
----
-
-## 💼 Work Experience
-
-### 🔹 Data Analyst Intern @ Skillfied Mentor *(May 2025)*
-- Cleaned and transformed large datasets for business analysis  
-- Built Power BI dashboards to track key performance metrics  
-- Assisted with statistical modeling and reporting automation
+## 🔍 About Me
+- 🎓 Background in [Your Field]
+- 🛠️ Skilled in Python, SQL, Power BI, Tableau
+- 📊 Passionate about turning data into insights through visualization and storytelling
+- 🌱 Currently learning: `Machine Learning` and `Cloud Data Warehousing`
 
 ---
 
-## 📊 Featured Projects
+## 💼 Projects
 
-### 🔋 Indian EV Market Dashboard
-[🔗 GitHub Repo](https://github.com/neharaju27/INDIAN-EV-MARKETS.git) | [🚀 Live Demo](https://indian-ev-markets-iyb9zidbn4dftn9lqtgeco.streamlit.app/)
+### 🧪 Wine Quality Analysis
+> Predicting wine quality based on physicochemical tests  
+**Tech Stack:** `Python`, `Pandas`, `Seaborn`, `Jupyter`  
+📂 [View Project](./Projects/Wine-Quality-Analysis)
 
-![EV Dashboard Demo](assets/ev_dashboard_demo.gif)
+### ⚡ EV Market Dashboard (Streamlit)
+> Dashboard to explore electric vehicle market trends  
+**Tech Stack:** `Python`, `Streamlit`, `Plotly`, `Pandas`  
+📂 [View Project](./Projects/EV-Market-Dashboard)
 
-📌 **Tech Stack**: Python, Power BI, Streamlit  
-📌 **Highlights**: EV adoption trends, market segmentation, interactive insights
-
----
-
-### 🧠 Healthcare Stroke Analysis  
-[🔗 GitHub Repo](https://github.com/neharaju27/Healthcare-Stroke-Analysis.git)
-
-![Stroke Analysis Demo](assets/stroke_dashboard_demo.gif)
-
-📌 **Tech Stack**: SQL, Python, Power BI  
-📌 **Highlights**: Risk factor identification, visual trends, predictive indicators
+### 🧠 Stroke Analysis Dashboard (Power BI)
+> Multi-page dashboard analyzing stroke risk factors  
+**Tech Stack:** `Power BI`, `DAX`, `Data Modeling`  
+📂 [View Report](./Projects/Stroke-Analysis-PowerBI)
 
 ---
 
-### 🍇 Grape Chemistry Project  
-[🔗 GitHub Repo](https://github.com/neharaju27/Grape-Chemistry-Project.git)
-
-![Grape Chemistry Dashboard](assets/grape_dashboard_demo.gif)
-
-📌 **Tech Stack**: Power BI, Python  
-📌 **Highlights**: Dynamic dashboard on wine quality vs chemical properties
+## 📈 My Tech Stack
+| Programming | Data Tools     | Visualization   | Platforms |
+|-------------|----------------|-----------------|-----------|
+| Python      | SQL, Pandas    | Power BI, Tableau | GitHub |
+| NumPy       | Excel, DAX     | Plotly, Seaborn | Streamlit |
 
 ---
 
-## 🏅 Certifications
-
-| Certificate | Image |
-|-------------|--------|
-| Python (Basic) – HackerRank | ![Python Certificate](assets/cert_python_basic.png) |
-| SQL (Intermediate) – HackerRank | ![SQL Intermediate](assets/cert_sql_intermediate.png) |
-| SQL (Advanced) – HackerRank | ![SQL Advanced](assets/cert_sql_advanced.png) |
-
----
-
-## 🗂️ Education
-
-**Data Analytics Bootcamp**  
-Masai School, Bangalore — 2025
-
-**Science Stream (PUC)**  
-Carmel Pre University, Bangalore — 2022
+## 🧰 Tools & Technologies
+<p align="left">
+  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white"/>
+  <img src="https://img.shields.io/badge/SQL-005C84?style=for-the-badge&logo=postgresql&logoColor=white"/>
+  <img src="https://img.shields.io/badge/PowerBI-F2C811?style=for-the-badge&logo=powerbi&logoColor=black"/>
+  <img src="https://img.shields.io/badge/Excel-217346?style=for-the-badge&logo=microsoft-excel&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Tableau-E97627?style=for-the-badge&logo=tableau&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Streamlit-FF4B4B?style=for-the-badge&logo=streamlit&logoColor=white"/>
+</p>
 
 ---
 
-## 📫 Let's Connect!
-
-I'm actively seeking full-time roles in **Data Analytics** or **Business Intelligence**. Let’s collaborate!
-
-- 📧 **Email**: neharaju719@gmail.com  
-- 💼 **LinkedIn**: [neha-raju27](https://www.linkedin.com/in/neha-raju27)
-
----
-
-⭐ *Thanks for visiting! Feel free to explore my projects and leave a star if you like them.*
+## 📫 Contact Me
+- 💌 youremail@example.com
+- 💼 [LinkedIn](https://linkedin.com/in/yourprofile)
+- 🌐 [Portfolio Website](https://yourportfolio.com)
