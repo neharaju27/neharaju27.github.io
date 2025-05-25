@@ -26,7 +26,7 @@
 ### ⚡ EV Market Dashboard (Streamlit)
 > Dashboard to explore electric vehicle market trends  
 **Tech Stack:** `Python`, `Streamlit`, `Plotly`, `Pandas`  
-📂 [View Project](./Projects/EV-Market-Dashboard)
+📂 [View Project](https://github.com/neharaju27/INDIAN-EV-MARKETS.git)
 
 ### 🧠 Stroke Analysis Dashboard (Power BI)
 > Multi-page dashboard analyzing stroke risk factors  
