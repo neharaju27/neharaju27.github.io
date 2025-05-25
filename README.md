@@ -1,62 +1,64 @@
-<h1 align="center">Hi, I'm [Your Name] 👋</h1>
-<h3 align="center">Data Analyst | BI Developer | Python Enthusiast</h3>
+# 👋 Hi, I'm Neha Raju
 
-<p align="center">
-  <a href="https://www.linkedin.com/in/yourprofile/"><img src="https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=linkedin"/></a>
-  <a href="mailto:youremail@example.com"><img src="https://img.shields.io/badge/-Email-red?style=flat-square&logo=gmail&logoColor=white"/></a>
-  <a href="https://yourportfolio.com"><img src="https://img.shields.io/badge/-Portfolio-black?style=flat-square&logo=github"/></a>
-</p>
+📍 Bangalore, Karnataka  
+📧 neharaju719@gmail.com  
+🔗 [LinkedIn](https://www.linkedin.com/in/neha-raju27) | [Resume](https://github.com/neharaju27/Resume/blob/main/Neha_Raju_Resume.pdf)
 
 ---
 
-## 🔍 About Me
-- 🎓 Background in [Your Field]
-- 🛠️ Skilled in Python, SQL, Power BI, Tableau
-- 📊 Passionate about turning data into insights through visualization and storytelling
-- 🌱 Currently learning: `Machine Learning` and `Cloud Data Warehousing`
+## 🚀 About Me
+
+I'm a data enthusiast with a solid foundation in statistics and a passion for transforming data into meaningful insights. I thrive on finding patterns, building visualizations, and communicating data-driven stories that drive decisions. I'm currently seeking opportunities to contribute as a Data Analyst or BI Developer.
 
 ---
 
-## 💼 Projects
+## 🧠 Skills
 
-### 🧪 Wine Quality Analysis
-> Predicting wine quality based on physicochemical tests  
-**Tech Stack:** `Python`, `Pandas`, `Seaborn`, `Jupyter`  
-📂 [View Project](./Projects/Wine-Quality-Analysis)
+**Languages & Tools**  
+`Python` | `SQL` | `Power BI` | `GitHub` | `HTML/CSS` | `Machine Learning`
 
-### ⚡ EV Market Dashboard (Streamlit)
-> Dashboard to explore electric vehicle market trends  
-**Tech Stack:** `Python`, `Streamlit`, `Plotly`, `Pandas`  
-📂 [View Project](./Projects/EV-Market-Dashboard)
-
-### 🧠 Stroke Analysis Dashboard (Power BI)
-> Multi-page dashboard analyzing stroke risk factors  
-**Tech Stack:** `Power BI`, `DAX`, `Data Modeling`  
-📂 [View Report](./Projects/Stroke-Analysis-PowerBI)
+**Soft Skills**  
+Adaptability • Teamwork • Problem Solving • Effective Communication
 
 ---
 
-## 📈 My Tech Stack
-| Programming | Data Tools     | Visualization   | Platforms |
-|-------------|----------------|-----------------|-----------|
-| Python      | SQL, Pandas    | Power BI, Tableau | GitHub |
-| NumPy       | Excel, DAX     | Plotly, Seaborn | Streamlit |
+## 💼 Work Experience
+
+**Data Analyst Intern - Skillfied Mentor** *(May 2025)*  
+- Cleaned and transformed large datasets for actionable insights  
+- Developed Power BI dashboards to track KPIs  
+- Supported statistical trend analysis and optimized data workflows  
 
 ---
 
-## 🧰 Tools & Technologies
-<p align="left">
-  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white"/>
-  <img src="https://img.shields.io/badge/SQL-005C84?style=for-the-badge&logo=postgresql&logoColor=white"/>
-  <img src="https://img.shields.io/badge/PowerBI-F2C811?style=for-the-badge&logo=powerbi&logoColor=black"/>
-  <img src="https://img.shields.io/badge/Excel-217346?style=for-the-badge&logo=microsoft-excel&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Tableau-E97627?style=for-the-badge&logo=tableau&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Streamlit-FF4B4B?style=for-the-badge&logo=streamlit&logoColor=white"/>
-</p>
+## 📊 Projects
+
+### 🔋 [Indian EV Market Dashboard](https://github.com/neharaju27/INDIAN-EV-MARKETS.git)
+Deployed: [Streamlit App](https://indian-ev-markets-iyb9zidbn4dftn9lqtgeco.streamlit.app/)  
+Interactive dashboard to analyze EV adoption, market share, and regional trends.
 
 ---
 
-## 📫 Contact Me
-- 💌 youremail@example.com
-- 💼 [LinkedIn](https://linkedin.com/in/yourprofile)
-- 🌐 [Portfolio Website](https://yourportfolio.com)
+### 🧠 [Healthcare Stroke Analysis](https://github.com/neharaju27/Healthcare-Stroke-Analysis.git)  
+Used SQL, Python, and Power BI to identify key indicators influencing stroke risk.
+
+---
+
+### 🍇 [Grape Chemistry Project](https://github.com/neharaju27/Grape-Chemistry-Project.git)  
+Analyzed chemical properties affecting wine quality using Power BI and Python.
+
+---
+
+## 📜 Certifications
+
+- [Python (Basic) – HackerRank](https://www.hackerrank.com/certificates/iframe/d0b30f468a62)
+- [SQL (Intermediate)](https://www.hackerrank.com/certificates/iframe/c5f45e762c7c)
+- [SQL (Advanced)](https://www.hackerrank.com/certificates/iframe/2e93f9018288)
+
+---
+
+## 📈 Let's Connect
+I'm actively seeking full-time roles in data analytics. Let's connect and explore how I can contribute to your team!
+
+📧 neharaju719@gmail.com  
+🔗 [LinkedIn](https://www.linkedin.com/in/neha-raju27)
